@@ -1,55 +1,14 @@
 ---
 layout: post
-title: Project
-description: a project with a background image
+title: DEI
+description: 
 img: /img/2.jpg
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+My experiences in STEM have shaped my commitment to diversity, equity, and inclusion. As a high school student, I dreamed about botanical research the way people dream about winning the lottery. I dreamed about my life as a scientist, seeing and working with different types of plants. I didn’t pursue plant sciences until later in my academic career because when I thought about scientists, I didn’t see people of color and diverse pathways, I saw white men from academic or academic-adjacent families. This was reinforced by institutions all around me, which emphasizes the importance of representation in STEM for diversity. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
+Throughout my academic career, I considered myself lucky because of the opportunities I’ve had, the most important was finding a research lab as an undergraduate. In this position, I had professors that valued my work and thought I could become a scientist which was life changing, although I convinced myself it was just luck. It has taken an incredibly long time to attribute my success to me and my work, and not luck. I learned that considering my success as luck discounts the challenges I have faced, such as holding two jobs as an undergraduate, and it has taught me an important perspective of how the opportunities I (and other underrepresented groups) received were not random but based on privilege of access and merit. Increasing diversity in STEM needs to happen at all levels but it is not possible without inclusivity. 
 
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
+As a graduate student, I worked to increase diversity and inclusion in my personal and professional life through science communication and education. As a research mentor, I cultivate an inclusive lab environment by tailoring training needs and asking undergraduates about their research and coursework in order to connect them to other faculty and students. I aim to continue fostering a diverse and inclusive space in STEM by keeping a growth mindset which includes confronting past missteps and continuing the conversation. 
 
-
-<div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic. 
-</div>
-
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
-
-<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-<br/><br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
-
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>
+Updates on post-doc DEI progress to be written.
