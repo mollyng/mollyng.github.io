@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DEI
+title: Commitment to DEI
 description: 
 img: /img/2.jpg
 ---
