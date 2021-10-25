@@ -17,6 +17,6 @@ permalink: /about/
 </span>
 
 <div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
+	This webpage was last updated 25 Oct 2021
 </div>
 
