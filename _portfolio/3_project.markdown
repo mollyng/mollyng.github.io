@@ -2,7 +2,7 @@
 layout: post
 title: Academic History
 description: 	and achievements
-img: /img/IMG_20170815_122704.jpg
+img: /img/2016-12-22 09.44.jpg
 ---
 
 2020		Ph.D., Earth & Environmental Sciences, University of Michigan, Ann Arbor
