@@ -2,7 +2,7 @@
 layout: post
 title: Commitment to DEI
 description: 
-img: /img/2.jpg
+img: /img/IMG_20170815_122704.jpg
 ---
 
 My experiences in STEM have shaped my commitment to diversity, equity, and inclusion. As a high school student, I dreamed about botanical research the way people dream about winning the lottery. I dreamed about my life as a scientist, seeing and working with different types of plants. I didn’t pursue plant sciences until later in my academic career because when I thought about scientists, I didn’t see people of color and diverse pathways, I saw white men from academic or academic-adjacent families. This was reinforced by institutions all around me, which emphasizes the importance of representation in STEM for diversity. 
