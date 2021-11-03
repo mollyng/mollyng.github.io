@@ -6,7 +6,8 @@ permalink: /about/
 
 <br/>
 The best way to contact me is via email! 
-please send emails to mollyng {at} umich.edu
+
+Please send emails to mollyng {at} umich.edu
 
 <br/>
 <hr/>
