@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Academic History
-description: & accomplishments
-
+title: Commitment to DEI
+description: 
+img: /img/IMG_20170815_122704.jpg
 ---
 
 2020		Ph.D., Earth & Environmental Sciences, University of Michigan, Ann Arbor
