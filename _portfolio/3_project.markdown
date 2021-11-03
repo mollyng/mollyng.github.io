@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Academic History
-description: &amp; accomplishments
+description: & accomplishments
 
 ---
 
