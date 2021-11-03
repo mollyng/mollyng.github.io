@@ -18,6 +18,6 @@ please send emails to mollyng {at} umich.edu
 </span>
 
 <div class="col three caption">
-	This webpage was last updated 25 Oct 2021
+	This webpage was last updated 3 November 2021
 </div>
 
