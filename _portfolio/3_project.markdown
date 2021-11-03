@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Commitment to DEI
-description: 
+title: Academic History
+description: & achievements
 img: /img/IMG_20170815_122704.jpg
 ---
 
