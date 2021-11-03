@@ -17,7 +17,7 @@ Sheldon, ND, Smith, SY, Stein, RA, & Ng, M. 2020. Carbon isotope ecology of gymn
 <br>
 <h3> Education </h3>
 <br>
-2020		Ph.D., Earth & Environmental Sciences, University of Michigan, Ann Arbor
+2020		Ph.D. Earth & Environmental Sciences, University of Michigan, Ann Arbor
 <br> 
 2011		B.S. Ecology and Evolutionary Biology, University of California, Los Angeles  
 <br>
