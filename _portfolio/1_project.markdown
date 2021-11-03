@@ -6,7 +6,7 @@ img: /img/12.jpg
 
 I'm interested in how plants grow where they grow. 
 
-Publications
+<h2> Publications </h2>
 
 Ng, M & Smith, SY. 2020. Examining Stasis in Metasequoia (Cupressaceae): linking fossil and modern leaf anatomical traits to climate, International Journal of Plant Sciences. 
 	
