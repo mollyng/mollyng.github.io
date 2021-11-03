@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Academic History
-description: 	<span>&#38;</span> achievements
+description: 	and achievements
 img: /img/IMG_20170815_122704.jpg
 ---
 
