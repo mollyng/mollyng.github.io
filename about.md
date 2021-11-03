@@ -1,11 +1,11 @@
 ---
 layout: page
-title: about
+title: contact
 permalink: /about/
 ---
 
 <br/>
-
+The best way to contact me is via email! mollyng {at} umich.edu
 
 <br/>
 <hr/>
