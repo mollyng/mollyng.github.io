@@ -2,7 +2,7 @@
 layout: post
 title: Research & Publications
 description: 
-img: /img/12.jpg
+img: /img/IMG_20170630_161650.jpg
 ---
 
 I'm interested in how plants grow where they grow. 
