@@ -22,6 +22,6 @@ Sheldon, ND, Smith, SY, Stein, RA, & Ng, M. 2020. Carbon isotope ecology of gymn
 2011		B.S. Ecology and Evolutionary Biology, University of California, Los Angeles  
 <br>
 <br>
-<h3> Achievements </h3>
+<h3> Award </h3>
 <br>
-2017 NSF Graduate Research Fellowship Program
+2017 - 2020 NSF Graduate Research Fellow
