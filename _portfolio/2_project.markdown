@@ -11,4 +11,4 @@ Throughout my academic career, I considered myself lucky because of the opportun
 
 As a graduate student, I worked to increase diversity and inclusion in my personal and professional life through science communication and education. As a research mentor, I cultivate an inclusive lab environment by tailoring training needs and asking undergraduates about their research and coursework in order to connect them to other faculty and students. I aim to continue fostering a diverse and inclusive space in STEM by keeping a growth mindset which includes confronting past missteps and listening to all voices.
 
-last updated: September 2021
+Updated: September 2021
