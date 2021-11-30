@@ -2,7 +2,7 @@
 layout: post
 title: Research and Academic History
 description: 
-img: /img/cupressaceae coverslide.jpg
+img: /img/coverslide.jpg
 ---
 
 My research focuses on using plant traits to understand how plants have evolved and how they shape our climate. I am interested in interdisciplinary approaches using plant morphology, anatomy, and physiology with climate/environmental models and statistics. 
