@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research, Publications, and Academic History
+title: Research and Academic History
 description: 
 img: /img/IMG_20170630_161650.jpg
 ---
@@ -16,7 +16,7 @@ Sheldon, ND, Smith, SY, Stein, RA, & <b>Ng, M</b>. 2020. Carbon isotope ecology 
 <br>
 <br>
 <h3> History </h3>
-Present	&Tab;	Rea Postdoctoral Fellow, Carnegie Museum of Natural History 
+Present	&#9;	Rea Postdoctoral Fellow, Carnegie Museum of Natural History 
 		Pittsburgh, PA
 <br>
 2020		Ph.D. Earth & Environmental Sciences, University of Michigan, Ann Arbor
