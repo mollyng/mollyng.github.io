@@ -15,15 +15,37 @@ My research focuses on using plant traits to understand how plants have evolved 
 Sheldon, ND, Smith, SY, Stein, RA, & <b>Ng, M</b>. 2020. Carbon isotope ecology of gymnosperms and implications for paleoclimatic and paleoecological studies, Global and Planetary Changes.
 <br>
 <br>
-<h3> History </h3>
+<style>
+table, th {
+  text-align: left;
+}, 
+	td {
+  border:0px solid black;
+}
+</style>
+<body>
 
-Present	Rea Postdoctoral Fellow, Carnegie Museum of Natural History 
-		Pittsburgh, PA
-<br>
-2020		<p> Ph.D. Earth & Environmental Sciences, University of Michigan, Ann Arbor </p>
-		<p> NSF Graduate Research Fellow</p>
-<br> 
-2011		<p> B.S. Ecology and Evolutionary Biology, University of California, Los Angeles  </p>
-<br>
-<br>
+<h3>Academic History</h3>
+
+<table>
+  <tr>
+    <th style="width:20%">Year</th>
+    <th>Position</th>
+  </tr>
+  <tr>
+    <td>Present</td>
+    <td>Rea Postdoctoral Fellow, Carnegie Museum of Natural History, Pittsburgh, PA
+  </tr>
+  <tr> 
+    <td>2020</td>
+	  <td> <p>Ph.D. Earth & Environmental Sciences, University of Michigan, Ann Arbor </p>
+		  <p> NSF Graduate Research Fellow</p></td>
+  </tr>
+  <tr>   
+    <td>2008 - 2011</td>
+    <td>B.S. Ecology and Evolutionary Biology, University of California, Los Angeles</td>
+
+  </tr>
+  
+</table>
 
