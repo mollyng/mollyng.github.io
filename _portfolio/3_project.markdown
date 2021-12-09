@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Current projects
-description: 	and achievements
+title: Past & Present Projects
+description: 
 img: /img/IMG_20190416_001701_809.jpg
 ---
 
