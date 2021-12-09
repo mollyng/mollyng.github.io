@@ -16,14 +16,14 @@ Sheldon, ND, Smith, SY, Stein, RA, & <b>Ng, M</b>. 2020. Carbon isotope ecology 
 <br>
 <br>
 <h3> History </h3>
-<pre>
-Present		Rea Postdoctoral Fellow, Carnegie Museum of Natural History 
+
+Present	Rea Postdoctoral Fellow, Carnegie Museum of Natural History 
 		Pittsburgh, PA
 <br>
-2020		Ph.D. Earth & Environmental Sciences, University of Michigan, Ann Arbor
-		NSF Graduate Research Fellow
+2020		<p> Ph.D. Earth & Environmental Sciences, University of Michigan, Ann Arbor </p>
+		<p> NSF Graduate Research Fellow</p>
 <br> 
-2011		B.S. Ecology and Evolutionary Biology, University of California, Los Angeles  
+2011		<p> B.S. Ecology and Evolutionary Biology, University of California, Los Angeles  </p>
 <br>
 <br>
-</pre>
+
