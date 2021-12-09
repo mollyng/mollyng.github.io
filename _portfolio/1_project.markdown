@@ -15,6 +15,7 @@ Sheldon, ND, Smith, SY, Stein, RA, & <b>Ng, M</b>. 2020. Carbon isotope ecology 
 
 
 <h3>Academic History</h3>
+<br>
 <style>
 table, th {
   text-align: left;
