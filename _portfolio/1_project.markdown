@@ -8,7 +8,7 @@ img: /img/coverslide.jpg
 <h3> Publications </h3>
 <br>
 <b> Ng, M </b> & Smith, SY. 2020. Examining Stasis in Metasequoia (Cupressaceae): linking fossil and modern leaf anatomical traits to climate, International Journal of Plant Sciences. 
-	
+<br>	
 Sheldon, ND, Smith, SY, Stein, RA, & <b>Ng, M</b>. 2020. Carbon isotope ecology of gymnosperms and implications for paleoclimatic and paleoecological studies, Global and Planetary Changes.
 <br>
 <br>
