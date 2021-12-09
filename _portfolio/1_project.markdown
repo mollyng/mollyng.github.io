@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research and Academic History
+title: Research & Academic History
 description: 
 img: /img/coverslide.jpg
 ---
