@@ -12,8 +12,6 @@ img: /img/coverslide.jpg
 Sheldon, ND, Smith, SY, Stein, RA, & <b>Ng, M</b>. 2020. Carbon isotope ecology of gymnosperms and implications for paleoclimatic and paleoecological studies, Global and Planetary Changes.
 <br>
 <br>
-
-
 <h3>Academic History</h3>
 <br>
 <style>
