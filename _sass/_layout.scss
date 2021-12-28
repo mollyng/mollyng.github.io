@@ -187,7 +187,7 @@ font-size: 16px;
 /** 
  * Portfolio grid **********************************************************
 */
-// Nicolas Gallagher's micro clearfix hack
+// Nicolas Gallagher's micro clearfix hack removed from img{ position: relative;
 // http://nicolasgallagher.com/micro-clearfix-hack/
 .clearfix:before,
 .clearfix:after {
@@ -213,7 +213,7 @@ overflow: hidden;
 .thumbnail img{
 width: 500px;
 height: auto;
-position: relative;
+
 left: -25%;
 top: -5%;
 }
