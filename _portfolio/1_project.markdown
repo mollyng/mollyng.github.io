@@ -6,6 +6,11 @@ img: /img/coverslide.jpg
 ---
 
 <h3> Publications </h3>
+
+<br>
+<p>Vandvik, V, Halbritter, AH, …<b>Ng, M </b>… . 2023. Plant traits and associated data from a warming experiment, a seabird colony, and along elevation in Svalbard. Scientific Data.</p>
+<br>
+<p><b>Ng, M</b>, McCormick, A, Utz, R, & Heberling, JM. 2023. Herbarium specimens reveal century-long trait shifts in poison ivy due to anthropogenic CO2 emissions, AJB</p>
 <br>
 <p><b> Ng, M </b> & Smith, SY. 2020. Examining Stasis in Metasequoia (Cupressaceae): linking fossil and modern leaf anatomical traits to climate, International Journal of Plant Sciences. </p>
 <br>	
